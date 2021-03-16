@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @AniMesH941
 
 from image.edit_1 import (  # pylint:disable=import-error
 
@@ -256,7 +256,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
                     InlineKeyboardButton(
 
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "SOURCE CODE", url="https://github.com/Animesh-941/Image941edit"
 
                     )
 
@@ -290,7 +290,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
                     InlineKeyboardButton(
 
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "SOURCE CODE", url="https://github.com/Animesh-941/Image941edit"
 
                     )
 
